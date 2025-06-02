@@ -1,0 +1,8 @@
+1 Error open file
+2 File is empty
+3 Division by zero
+4 Unknown operator
+5 Unexpected symbol
+6 No elements (stack is empty)
+7 incorrect parenthesis input
+8 incorrect input
